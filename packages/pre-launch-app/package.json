@@ -7,6 +7,6 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ironmodules/react-native-starters.git"
+    "url": "https://github.com/ironmodules/react-native-starters/tree/main/packages/pre-launch-app"
   }
 }
